@@ -7,6 +7,8 @@
     "build": "npx vue-cli-service build"
   },
   "dependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
     "core-js": "^3.38.1",
