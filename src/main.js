@@ -14,12 +14,13 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDF3MX2SzdanQXlOGWFudqTPjX37JJljDo",
-  authDomain: "fir-3cd29.firebaseapp.com",
-  projectId: "fir-3cd29",
-  storageBucket: "fir-3cd29.appspot.com",
-  messagingSenderId: "669805638608",
-  appId: "1:669805638608:web:2b40046fd5b4a7c52bbfd5"
+  apiKey: "AIzaSyDZLPCLvhxx_ogwE89OXCTK222cKMm0B2c",
+  authDomain: "vueauth-d0174.firebaseapp.com",
+  projectId: "vueauth-d0174",
+  storageBucket: "vueauth-d0174.appspot.com",
+  messagingSenderId: "550267519848",
+  appId: "1:550267519848:web:8084e360d4d232863c8cdd",
+  measurementId: "G-3366XN2GPK"
 };
 
 firebase.initializeApp(firebaseConfig)
